@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACE,kBAAkB,EADd;;AAGN;EACE;IACE,iBAAiB,EADb,EAAA","file":"app.css","sourcesContent":["body {\n  padding-top: 60px;\n}\n@media (max-width: 979px) {\n  body {\n    padding-top: 0px;\n  }\n}"],"sourceRoot":"/source/"}
